@@ -167,7 +167,7 @@ const Navbar = () => {
                 }
             `}</style>
 
-            <nav className="bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100 font-['Outfit']">
+            <nav className="bg-green-500 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100 font-['Outfit']">
                 <div className="max-w-7xl mx-auto px-6">
                     <div className="flex justify-between items-center h-20">
                         
